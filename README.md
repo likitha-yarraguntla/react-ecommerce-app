@@ -1,4 +1,10 @@
 # 🛒 React E-Commerce Application
+🌐 Live Demo
+
+🔗 react-ecommerce-app-iota-pearl.vercel.app
+
+📂 GitHub Repository
+🔗 https://likitha-yarraguntla.github.io/react-ecommerce-app/
 
 A modern and responsive E-Commerce web application built using React.js. This project provides a complete shopping experience with authentication, product management, cart, wishlist, checkout, and order tracking functionality.
 
