@@ -1,7 +1,7 @@
 # 🛒 React E-Commerce Application
 🌐 Live Demo
 
-🔗 react-ecommerce-app-iota-pearl.vercel.app
+🔗 https://react-ecommerce-app-iota-pearl.vercel.app/
 
 📂 GitHub Repository
 🔗 https://likitha-yarraguntla.github.io/react-ecommerce-app/
